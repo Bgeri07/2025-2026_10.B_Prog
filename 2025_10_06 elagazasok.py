@@ -55,11 +55,12 @@ else:
 # 3. Szabályos-e a háromszög?
 
 
+
 #generálj 3 véletelen 3 jegyű számot amelyek 13-al oszthatók
 #adja meg az átlaguk 
 #állítsa ezeket sorrfendbe
 # Van-e közöttük 4-el végződő? 
 
-import random 
-import math 
-
+#otthon tessék lemásolni a github-os repository tartalmát(pull)
+#Házi feladat elkészítése
+#add, commit -m push 
