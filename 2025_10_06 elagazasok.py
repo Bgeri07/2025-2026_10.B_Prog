@@ -63,4 +63,4 @@ else:
 
 #otthon tessék lemásolni a github-os repository tartalmát(pull)
 #Házi feladat elkészítése
-#add, commit -m push 
+#add, commit -m, push 
