@@ -34,7 +34,7 @@ magasság = terület * 2 / a
 print("Magasság:"+ str(magasság))
 
 
-# nég kiíratás 
+# név kiíratás 
 Vezetéknév = str(input("Vezetéknév:"))
 Keresztnév = str(input("Keresztnév:"))
 
@@ -76,7 +76,7 @@ elif víz >=100:
 else:
     print("szilárd")
 
-#Szerkeszthetőe a háromszög 
+#Szerkeszthető-e a háromszög 
 a = int(input("Első szám:"))
 b = int(input("Második szám:")) 
 c = int(input("Harmadik szám:"))
