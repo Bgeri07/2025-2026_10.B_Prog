@@ -50,7 +50,6 @@ elif(a != 0 and b == 0 and c !=0 ):
     harmonk= 2 / (1/a + 1/c)
 elif(a != 0 and b != 0 and c ==0 ):
     harmonk= 2 / (1/a + 1/b)
-    
 elif(a != 0 and b == 0 and c ==0 ):
     harmonk = 2 / (1/a)
 elif(a == 0 and b != 0 and c ==0 ):
