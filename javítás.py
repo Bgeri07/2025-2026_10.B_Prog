@@ -3,18 +3,15 @@ import random
 
 szám = random.randint(0,9)
 print(szám)
-if(szám== 1 or szám ==6): 
+if(szám == 1 or szám == 6 ):
     print("labda")
-elif(szám== 2 or szám ==7):
+if(szám == 2 or szám == 7):
     print("ceruza")
-elif(szám== 3 or szám ==8):
+if(szám == 3 or szám == 8):
     print("színes papír")
-elif(szám == 1 or szám ==6):
-    print("bicikli")
-else: 
+else:
     print("nem nyert")
-
-#2. feladat
+    #2. feladat
 
 óra= int(input("óra:"))
 hét = óra// 168
