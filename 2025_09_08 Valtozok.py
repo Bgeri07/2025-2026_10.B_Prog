@@ -22,7 +22,7 @@ print(soknev)
 Elemi típusok
 - szöveg - string - str
 (- karakter)
-- szám - egész (integer - int), lebegőpontos (tört) (float)
+- szám - egész (integer - int), lebegőpontos (tört) (float)( egész számmá alakítás)
 - logikai - true, false
 """
 
