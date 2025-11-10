@@ -63,14 +63,7 @@ for index in range(0, n , 1):
 print()
 # írasson ki 5 db véletelen karakter a szövegből
 
-for db in range(0,5,1):
-    szam =r.randint(0,n-1)
+for db in range(0 , 5 , 1):
+    szam =r.randint(0 , n-1 )
     print(szoveg[szam], end="")
 print()
-
-
-#HF 17-21
-n= len(szoveg)
-for index in range(0, n , 1):
-    print(szoveg[szam], end=" ")
-
